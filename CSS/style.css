@@ -1,0 +1,90 @@
+a:visited{
+	color: #BD5600;
+}
+.navigation{
+	background-color: #562929;
+	color: #fff;
+}
+
+.navigation .nav-list{
+	padding: 0 15px;
+	margin: 0 auto;
+	text-align: right;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.navigation .nav-list li{
+	list-style-type: none;
+	display: inline;
+	text-align: center;
+	letter-spacing: 0.03em;
+	margin: 1em;
+	margin-top: 2em;
+}
+
+.introduction{
+	background-image: url('../images/woodgrain.jpg');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	height: 40em;
+}
+
+.introduction .intro-content{
+	color: #fff;
+	width: 864px;
+	height: 173px;
+	text-align: center;
+	font-weight: 300;
+	margin: 0 auto;
+}
+
+.introduction .intro-content h1{
+	font-size: 3.125rem;
+	padding-top: 15rem;
+}
+
+.introduction .intro-content h3{
+	margin-top: 1.25rem;
+	margin-bottom: 1.25rem;
+	font-size: 1.563rem;
+}
+
+.footer{
+	background-color: #562929;
+	color: #fff;
+}
+
+.footer .footer-list{
+	padding: 0 15px;
+	text-align: center;
+	padding-bottom: 2em;
+}
+
+.footer .footer-content{
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 1em;
+}
+.footer .footer-list li{
+	list-style-type: none;
+	display: inline;
+	text-align: center;
+	letter-spacing: 0.03em;
+	margin: 1em;
+	margin-top: 2em;
+}
+.where,
+.more-about{
+  	margin-left: auto;
+  	margin-right: auto;
+  	max-width: 38em;
+  	margin-top: 2em;
+  }
+
+  .projects .projects-list li{
+  	display: inline-block;
+	list-style-type: none;
+	margin: 1em;
+	margin-top: 2em;
+  }
